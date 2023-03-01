@@ -1,12 +1,21 @@
 import streamlit as st
 
 # Page header
-st.title("My Portfolio")
+st.title("Luciano Martins Fagundes")
 
 # Main area
 st.write("""
-    Hi there! Welcome to my portfolio. I'm a software engineer with a passion for building innovative solutions 
-    that solve real-world problems. Here are some of my recent projects:
+    	As an IT support analyst, I have a strong foundation in troubleshooting and problem-solving, 
+        with experience in both technical and customer service roles. I am highly skilled in
+        using various tools and technologies to diagnose and resolve a wide range of technical issues, 
+        and I am committed to providing top-quality support to clients and colleagues. 
+        With my strong communication skills and ability to work effectively in a team, 
+        I am confident in my ability to contribute to the success of any organization. 
+        In addition to my technical skills, I have proven experience in team management and leadership, 
+        and am comfortable working in fast-paced and dynamic environments. 
+        I am committed to staying current with the latest trends and technologies in the field, and 
+        to consistently delivering high-quality work. 
+        Here are some of my recent projects:
 """)
 
 # Project gallery with embedded YouTube videos
